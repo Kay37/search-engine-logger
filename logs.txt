@@ -1,0 +1,3 @@
+2026-10-29 11:42:44 Menu launch
+2026-10-29 11:42:53 User search : How to get good at java?
+2026-10-29 11:43:04 Menu exit
