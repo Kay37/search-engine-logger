@@ -86,7 +86,7 @@ public class SearchEngineLogger {
                         Thread.sleep(1000);
                         System.out.println("...");
                         Thread.sleep(1000);
-                        System.out.println("Beep boop! Search failed! Returning to actions menu. ");
+                        System.out.println("Beep boop! Search failed! Logging request and returning to actions menu. ");
                         Thread.sleep(1000);
                         Thread.sleep(1000);
                         break;
